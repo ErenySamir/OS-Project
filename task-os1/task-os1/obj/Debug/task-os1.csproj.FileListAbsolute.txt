@@ -1,0 +1,9 @@
+c:\users\microsoft\documents\visual studio 2015\Projects\task-os1\task-os1\bin\Debug\task-os1.exe.config
+c:\users\microsoft\documents\visual studio 2015\Projects\task-os1\task-os1\bin\Debug\task-os1.exe
+c:\users\microsoft\documents\visual studio 2015\Projects\task-os1\task-os1\bin\Debug\task-os1.pdb
+c:\users\microsoft\documents\visual studio 2015\Projects\task-os1\task-os1\obj\Debug\task-os1.csprojResolveAssemblyReference.cache
+c:\users\microsoft\documents\visual studio 2015\Projects\task-os1\task-os1\obj\Debug\task-os1.exe
+c:\users\microsoft\documents\visual studio 2015\Projects\task-os1\task-os1\obj\Debug\task-os1.pdb
+E:\projects\task-os1\task-os1\bin\Debug\task-os1.exe.config
+E:\projects\task-os1\task-os1\obj\Debug\task-os1.exe
+E:\projects\task-os1\task-os1\obj\Debug\task-os1.pdb
